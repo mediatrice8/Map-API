@@ -1,13 +1,13 @@
 # Getting Started with Create React App
 
-[Link for project]: (https://github.com/mediatrice8/Map-API)
+
 # Google-Map-API
 The application for Google map API where a driver for a transportation agency in Kigali, ready to embark on your
 daily route from Nyabugogo to Kimironko. It's your responsibility to pick up passengers at
 five stops along the way. To help you and your passengers stay coordinated, you need a
 platform that tells you how far you are from the next stop and how long it will take to get
 there.
-
+[Link for project]: (https://github.com/mediatrice8/Map-API)
 
 ## Available Scripts
 
